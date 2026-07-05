@@ -1,0 +1,9 @@
+{
+  "name": "モンキーターン V",
+  "short_name": "モンキーV",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f7f8",
+  "theme_color": "#f7f7f8",
+  "icons": []
+}
