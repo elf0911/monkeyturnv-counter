@@ -1,3 +1,3 @@
-# monkeyturnv-counter v0.4
+# monkeyturnv-counter v0.5
 
-キャッシュ対策済み。app/style/manifest/service-workerをv04化。
+動作確認用のv0.5。画面下にv0.5が表示されます。
